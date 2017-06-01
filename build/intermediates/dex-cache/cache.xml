@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kendrick\Desktop\SQLstuff\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="17920069dcf7facd26085708c5dba80ebe9f0cc9">
+        <dex dex="C:\Users\Kendrick\Desktop\SQLstuff\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0e295ba6a3aa662a42eb7509fccfd0a0bd256a61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kendrick\Desktop\SQLstuff\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Kendrick\Desktop\SQLstuff\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_78bb35aeb9642d9a586f09c607cb319c7f021d24\classes.dex" />
+    </item>
+
+</items>
